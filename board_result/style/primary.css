@@ -1,0 +1,291 @@
+@font-face
+    {
+        font-family: myfont1;
+        src:url('font/daunpenh.ttf');
+    }
+    h1,h2,h3,h4,h5
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #a9070c;
+        padding: 0px;
+        margin: 8px;
+        
+    }
+    
+    .pstyle
+    {
+        margin-left: 23px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        
+    }
+    .pstyle1
+    {
+        margin: 9px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #warp
+    {
+        border: 1px solid #000;
+        width: 1000px;
+        min-height: 600px;
+        margin: 0 auto;
+        
+    }
+    #bright
+    {
+        margin-left: 20px;
+        font-size: 40px;
+        font-family: arial;
+    }
+    #future
+    {
+        
+        font-size:40px;
+        color: #d0090e;
+        
+        font-family: arial;
+    }
+    #society
+    {
+        margin-left: 20px;
+        font-stretch:extra-expanded;
+        font-size: 25px;
+    }
+    #logo
+    {
+        width: 350px;
+        float: left;
+    }
+    .clear
+    {
+        clear: both;
+    }
+    #menu
+    {
+        height: 50px;
+        width: 900px;
+    }
+    #menu ul li
+    {
+        list-style: none;
+        
+    }
+    #menu li a
+    {
+        /*font-family: myfont1;*/
+        float: left;
+      padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 5px;
+    
+        font-size: 18px;
+        line-height: 25px;
+        text-decoration: none;
+        color: #fff;
+        background-color: #a9070c;
+        display: block;
+        border: 1px solid #000;
+    }
+    #menu li a:hover
+    {
+        color: #000;
+        background-color: #ffff00;
+        border: 1px solid #a9070c;
+    }
+    #mbody
+    {
+        min-height: 500px;
+        width: 940px;
+        
+        background-repeat: no-repeat;
+        background-position: left bottom;
+        padding-left: 20px;
+        padding-right: 20px;
+        
+    }
+    #mbody p
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: justify;
+        line-height: 2px;
+    }
+    #mbody_home
+    {
+        min-height: 500px;
+        width: 980px;
+        
+        background-repeat: no-repeat;
+        background-position: left bottom;
+        padding-left: 20px;
+        padding-right: 20px;
+        
+        
+    }
+    .mylist li
+    {
+        list-style:square;
+    }
+     .mylist1 li
+    {
+        list-style:square;
+    }
+    .mylist1 h4 
+    {
+        
+        color: #400040;
+    }
+    .mylist2 
+    {
+        font-family: arial;
+        font-size: 14px;
+        color: #d0090e;
+    }
+    #footer
+    {
+        width: 1000px;
+        height: 20px;
+        background-color: #a9070c;
+        color: #fff;
+        text-align: center;
+    }
+    #rightc1
+    {
+        min-height: 300px;
+        width: 300px;
+        float: right;
+        border-left: 1px solid #a9070c;
+        padding-left:  5px;
+        padding-right:  5px;
+        padding-top: 0px;
+        margin-top: 0px;
+        
+    }
+    #left1
+    {
+        width: 650px;
+        float: left;
+    }
+    #login
+    {
+        padding-top: 10px;
+        float: right;
+        padding-right: 10px;
+        height: 60px;
+        
+        float: right;
+    }
+    #login a
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #d0090e;
+        font-weight: bold;
+    }
+    #login a:hover
+    {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #b9b900;
+        font-weight: bold;
+    }
+    #login p
+    {
+        margin-top: 2px;
+        margin-bottom: 0px;
+        font-size: 14px;
+        color: #800000;
+    }
+    #login input[type = 'text'] 
+    {
+        border: 1px solid #a9070c;
+        color: #a9070c;
+    }
+    #login input[type = 'email'] 
+    {
+        border: 1px solid #a9070c;
+        color: #a9070c;
+    }
+    #login input[type = 'password']
+    {
+         border: 1px solid #a9070c;
+         color: #a9070c;
+    }
+    #login input[type = 'submit']
+                 {
+                    border: 1px solid #000;
+                    background-color: #d0090e;
+                    color: #fff;
+                 }
+                  #login input[type = 'submit']:hover
+                 {
+                    border: 1px solid #000;
+                    background-color: #ffff00;
+                    color: #000;
+                 }
+                 #login input[type = 'text'] 
+    {
+        border: 1px solid #a9070c;
+        color: #a9070c;
+    }
+    #rightc1 input[type = 'text'] 
+    {
+        border: 1px solid #a9070c;
+        color: #a9070c;
+    }
+    #rightc1 input[type = 'email'] 
+    {
+        border: 1px solid #a9070c;
+        color: #a9070c;
+    }
+    
+    #rightc1 input[type = 'password']
+    {
+         border: 1px solid #a9070c;
+         color: #a9070c;
+    }
+    #rightc1 input[type = 'submit']
+                 {
+                    border: 1px solid #000;
+                    background-color: #d0090e;
+                    color: #fff;
+                 }
+                  
+                 #rightc1 input[type = 'submit']:hover
+                 {
+                    border: 1px solid #000;
+                    background-color: #ffff00;
+                    color: #000;
+                 }
+                 
+    #file_upload
+    {
+        width:900px;        
+        text-align:center;
+        background-color:#ffff80;
+        height:200px;
+        padding-top:90px;
+    }
+    #file_uload input[type = 'file']
+    {
+        width:30px;
+        background-color:#fff;
+        height:60px;
+    }
+    .file1
+    {
+        width:70px;
+        background-color:#00ff80;
+        height:30px;
+    }
+    #error p
+    {
+        line-height:25px;
+        margin:0px;
+        padding:0px;
+        color:#ff0000;
+    }
+    #error samp
+    {
+        line-height:25px;
+       
+    }
