@@ -50,3 +50,7 @@ Find this line /
     		RewriteBase /board_result/
     
     and change "board_result" this is a folder name where save you project:
+
+If you have any problem in deploy this application. you can contact me:
+
+My Email : shivamanhar@gmail.com
